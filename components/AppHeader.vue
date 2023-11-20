@@ -6,20 +6,36 @@
       </div>
       <div class="flex">
         <div class="">
-          <ul class="flex gap-10">
-            <NuxtLink to="">Home</NuxtLink>
+          <ul class="flex gap-10 py-1">
+            <NuxtLink to="" class="text-primary border-b border-primary"
+              >Home</NuxtLink
+            >
             <NuxtLink to="">About</NuxtLink>
             <NuxtLink to="">Portofolio</NuxtLink>
             <NuxtLink to="">Blog</NuxtLink>
             <NuxtLink to="">Contact</NuxtLink>
           </ul>
         </div>
-        <div class="flex gap-10">
-          <ColorScheme
-            ><USelect
-              v-model="$colorMode.preference"
-              :options="['system', 'light', 'dark']"
-          /></ColorScheme>
+        <div class="pl-10">
+          <ColorScheme v-model="$colorMode.preference">
+            <div>
+              <UButton
+                :icon="
+                  $colorMode.preference === 'light'
+                    ? 'i-heroicons-moon'
+                    : 'i-heroicons-sun'
+                "
+                size="sm"
+                color="primary"
+                square
+                variant="solid"
+                @click="
+                  $colorMode.preference =
+                    $colorMode.preference === 'light' ? 'dark' : 'light'
+                "
+              />
+            </div>
+          </ColorScheme>
         </div>
       </div>
     </div>
