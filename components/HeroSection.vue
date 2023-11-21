@@ -19,6 +19,9 @@
           </p>
         </h2>
       </div>
+      <div>
+        <!-- Photo section -->
+      </div>
     </div>
   </div>
 </template>
