@@ -6,7 +6,7 @@
       >
         <div class="md:flex">
           <div>
-            <h2 class="text-2xl font-bold text-white">Get in touch</h2>
+            <h2 class="text-2xl font-bold text-primary-900">Get in touch</h2>
             <p
               class="text-base text-gray-100 py-4 leading-8 w-72 hover:animate-pulse"
             >
@@ -14,7 +14,7 @@
             </p>
           </div>
           <div class="">
-            <h2 class="text-2xl font-semibold text-white">Connect</h2>
+            <h2 class="text-2xl font-semibold text-primary-900">Connect</h2>
             <ul class="grid leading-8 py-4 text-base text-white">
               <NuxtLink to="" class="hover:animate-pulse">LinkedIn</NuxtLink>
               <NuxtLink to="" class="hover:animate-pulse">Discord</NuxtLink>
@@ -25,7 +25,7 @@
         </div>
         <div class="md:flex gap-10">
           <div>
-            <h2 class="text-2xl font-semibold text-white">Blog</h2>
+            <h2 class="text-2xl font-semibold text-primary-900">Blog</h2>
             <ul class="grid leading-8 py-4 text-base text-white">
               <NuxtLink to="" class="hover:animate-pulse">Nuxt 3</NuxtLink>
               <NuxtLink to="" class="hover:animate-pulse">Vue 3</NuxtLink>
