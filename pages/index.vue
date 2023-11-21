@@ -1,7 +1,7 @@
 <template>
   <div>
     <AppHeader />
-    <slot />
+    <HeroSection />
     <AppFooter />
   </div>
 </template>

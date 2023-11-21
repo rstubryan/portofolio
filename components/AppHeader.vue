@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="flex container justify-between mx-auto md:w-[1200px] md:py-8 md:p-0 p-8"
+      class="flex container justify-between mx-auto md:py-8 md:p-0 p-8"
     >
       <div class="flex gap-3 md:gap-0">
         <div class="md:hidden block" id="navbar">
