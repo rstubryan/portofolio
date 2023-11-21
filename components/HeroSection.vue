@@ -2,7 +2,7 @@
   <div>
     <div class="container mx-auto md:px-0 px-8 md:py-64 py-8" id="hero">
       <div>
-        <h2 class="container text-3xl font-semibold w-96">
+        <h2 class="container md:text-4xl text-3xl font-semibold w-96">
           Hello, I'm
           <span class="text-primary font-bold">Restu</span> Bumi Ryan Ramadhan
           <p class="text-base text-gray-600 dark:text-gray-400 w-[300px] md:w-[520px] py-4 leading-8">
