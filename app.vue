@@ -1,6 +1,8 @@
 <template>
-  <div class="font-inter">
-    <NuxtPage />
+  <div>
+    <div class="font-inter overflow-x-hidden">
+      <NuxtPage />
+    </div>
   </div>
 </template>
 
