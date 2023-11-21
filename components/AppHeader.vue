@@ -1,12 +1,35 @@
+<script setup>
+const isOpen = ref(false);
+</script>
+
 <template>
   <div>
-    <div class="flex container justify-between mx-auto w-[1200px] py-8">
-      <div class="flex">
-        <h1 class="text-3xl text-primary font-semibold">rstubryan</h1>
+    <div
+      class="flex container justify-between mx-auto md:w-[1200px] md:py-8 md:p-0 p-8"
+    >
+      <div class="flex gap-3 md:gap-0">
+        <div class="md:hidden block" id="navbar">
+          <!-- Testing -->
+          <UButton
+            icon="i-heroicons-bars-3"
+            size="sm"
+            color="primary"
+            square
+            variant="solid"
+          />
+        </div>
+        <!--  -->
+
+        <h1
+          class="md:text-3xl text-2xl text-primary font-semibold"
+          id="web-name"
+        >
+          rstubryan
+        </h1>
       </div>
       <div class="flex">
-        <div class="">
-          <ul class="flex gap-10 py-1">
+        <div id="nav-menu">
+          <ul class="md:flex gap-10 py-1 hidden">
             <NuxtLink to="" class="text-primary border-b border-primary"
               >Home</NuxtLink
             >
@@ -16,7 +39,7 @@
             <NuxtLink to="">Contact</NuxtLink>
           </ul>
         </div>
-        <div class="pl-10">
+        <div class="pl-10" id="color-mode">
           <ColorScheme v-model="$colorMode.preference">
             <div>
               <UButton
