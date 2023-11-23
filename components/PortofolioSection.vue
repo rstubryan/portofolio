@@ -46,15 +46,21 @@
             class="w-32 z-50 hover:scale-150 transition duration-300 ease-in-out"
           />
         </div>
-        <div id="laravel">
+        <div id="php">
           <NuxtImg
-            src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png"
+            src="https://www.php.net//images/logos/new-php-logo.png"
             class="w-28 z-50 hover:scale-150 transition duration-300 ease-in-out"
           />
         </div>
         <div id="mysql">
           <NuxtImg
             src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
+            class="w-28 z-50 hover:scale-150 transition duration-300 ease-in-out"
+          />
+        </div>
+        <div id="laravel">
+          <NuxtImg
+            src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png"
             class="w-28 z-50 hover:scale-150 transition duration-300 ease-in-out"
           />
         </div>
