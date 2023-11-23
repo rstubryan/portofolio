@@ -1,18 +1,5 @@
 <template>
   <div>
-    <!-- <div class="flex items-center justify-center px-16">
-      <div class="relative w-full max-w-lg">
-        <div
-          class="absolute md:-bottom-52 -bottom-80 md:-left-96 right-32 w-72 h-72 bg-primary-500 rounded-full mix-blend-multiply filter blur-xl dark:opacity-30 opacity-70 animate-blob"
-        ></div>
-        <div
-          class="absolute md:top-82 -bottom-96 md:-left-96 w-72 h-72 bg-primary-300 rounded-full mix-blend-multiply filter blur-xl dark:opacity-30 opacity-70 animate-blob animation-delay-2000"
-        ></div>
-        <div
-          class="absolute md: -top-10 md:right-72 -right-20 w-72 h-72 bg-primary-400 rounded-full mix-blend-multiply filter blur-xl dark:opacity-30 opacity-70 animate-blob animation-delay-4000"
-        ></div>
-      </div>
-    </div> -->
     <div class="container mx-auto h-96">
       <div class="text-center py-4">
         <h2 class="text-5xl font-bold">Portofolio</h2>
