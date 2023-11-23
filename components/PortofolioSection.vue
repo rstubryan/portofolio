@@ -28,6 +28,12 @@
             class="w-28 z-50 hover:scale-150 transition duration-300 ease-in-out"
           />
         </div>
+        <div id="js">
+          <NuxtImg
+            src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+            class="w-24 z-50 hover:scale-150 transition duration-300 ease-in-out"
+          />
+        </div>
         <div id="vue">
           <NuxtImg
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png"
