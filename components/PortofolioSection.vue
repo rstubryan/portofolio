@@ -16,7 +16,7 @@
           I've worked on so far
         </h3>
       </div>
-      <div class="flex mx-auto items-center justify-center py-4 gap-12">
+      <div class="flex flex-wrap mx-auto items-center justify-center py-4 gap-12">
         <div id="tailwind">
           <NuxtImg
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png"
