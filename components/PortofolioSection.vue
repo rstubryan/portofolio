@@ -1,12 +1,14 @@
 <template>
   <div>
     <div
-      class="container mx-auto h-96 md:px-0 px-8 md:py-0 py-8"
+      class="container mx-auto md:h-96 md:px-0 px-8 md:py-0 py-8"
       id="portofolio"
     >
       <div class="text-center py-4">
-        <h2 class="text-5xl font-bold text-primary">Portofolio</h2>
-        <h3 class="text-lg font-semibold py-6 text-gray-600 dark:text-gray-400">
+        <h2 class="md:text-5xl text-3xl font-bold text-primary">Portofolio</h2>
+        <h3
+          class="md:text-lg text-base font-semibold py-6 text-gray-600 dark:text-gray-400"
+        >
           My
           <span class="font-bold text-black dark:text-white">tech stack</span>
           and
