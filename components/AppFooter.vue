@@ -58,7 +58,7 @@
       </div>
       <hr class="container mx-auto border-primary-900" />
       <div class="dark:bg-primary bg-primary">
-        <p class="text-center text-gray-100 py-4">
+        <p class="text-center text-gray-100 py-8">
           &copy; 2023 <span class="text-primary-900 font-bold">rstubryan</span>.
           All rights reserved.
         </p>
