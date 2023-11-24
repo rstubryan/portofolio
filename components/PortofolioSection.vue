@@ -2,10 +2,13 @@
   <div>
     <div class="container mx-auto h-96" id="portof">
       <div class="text-center py-4">
-        <h2 class="text-5xl font-bold">Portofolio</h2>
-        <h3 class="text-lg font-semibold py-6">
-          My <span class="text-primary">tech stack</span> and
-          <span class="text-primary">projects</span> I've worked on so far
+        <h2 class="text-5xl font-bold text-primary">Portofolio</h2>
+        <h3 class="text-lg font-semibold py-6 text-gray-600 dark:text-gray-400">
+          My
+          <span class="font-bold text-black dark:text-white">tech stack</span>
+          and
+          <span class="font-bold text-black dark:text-white">projects</span>
+          I've worked on so far
         </h3>
       </div>
       <div class="flex mx-auto items-center justify-center py-4 gap-12">
