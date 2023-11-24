@@ -14,23 +14,24 @@
         </div>
         <!--  -->
 
-        <h1
+        <NuxtLink
+          to="/"
           class="md:text-3xl text-2xl text-primary font-semibold"
+          target="_blank"
           id="web-name"
+          >rstubryan</NuxtLink
         >
-          rstubryan
-        </h1>
       </div>
       <div class="flex">
         <div id="nav-menu">
           <ul class="md:flex gap-10 py-1 hidden">
-            <NuxtLink to="" class="text-primary border-b border-primary"
+            <NuxtLink to="/" class="text-primary border-b border-primary"
               >Home</NuxtLink
             >
-            <NuxtLink to="">About</NuxtLink>
-            <NuxtLink to="#portof">Portofolio</NuxtLink>
-            <NuxtLink to="">Blog</NuxtLink>
-            <NuxtLink to="">Contact</NuxtLink>
+            <NuxtLink to="#about">About</NuxtLink>
+            <NuxtLink to="#portofolio">Portofolio</NuxtLink>
+            <NuxtLink to="#blog">Blog</NuxtLink>
+            <NuxtLink to="#contact">Contact</NuxtLink>
           </ul>
         </div>
         <div class="pl-10" id="color-mode">

@@ -4,6 +4,8 @@
     <HeroSection />
     <AboutSection />
     <PortofolioSection />
+    <BlogSection />
+    <ContactSection />
     <AppFooter />
   </div>
 </template>
