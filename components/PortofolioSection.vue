@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="container mx-auto h-96 md:px-0 px-8 md:py-[230px] py-8"
+      class="container mx-auto h-96 md:px-0 px-8 md:py-0 py-8"
       id="portofolio"
     >
       <div class="text-center py-4">
