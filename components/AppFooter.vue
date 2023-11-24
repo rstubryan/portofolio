@@ -56,9 +56,11 @@
           </div>
         </div>
       </div>
-      <div class="dark:bg-primary-500 bg-primary-600">
+      <hr class="container mx-auto border-primary-900" />
+      <div class="dark:bg-primary bg-primary">
         <p class="text-center text-gray-100 py-4">
-          &copy; 2023 rstubryan. All rights reserved.
+          &copy; 2023 <span class="text-primary-900 font-bold">rstubryan</span>.
+          All rights reserved.
         </p>
       </div>
     </div>
