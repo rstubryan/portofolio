@@ -1,8 +1,6 @@
 <template>
   <div>
-    <div
-      class="flex container justify-between mx-auto md:py-8 md:p-0 p-8"
-    >
+    <div class="flex container justify-between mx-auto md:py-8 md:p-0 p-8">
       <div class="flex gap-3 md:gap-0">
         <div class="md:hidden block" id="navbar">
           <!-- Testing -->
@@ -30,7 +28,7 @@
               >Home</NuxtLink
             >
             <NuxtLink to="">About</NuxtLink>
-            <NuxtLink to="">Portofolio</NuxtLink>
+            <NuxtLink to="#portof">Portofolio</NuxtLink>
             <NuxtLink to="">Blog</NuxtLink>
             <NuxtLink to="">Contact</NuxtLink>
           </ul>

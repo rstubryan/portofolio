@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container mx-auto h-96">
+    <div class="container mx-auto h-96" id="portof">
       <div class="text-center py-4">
         <h2 class="text-5xl font-bold">Portofolio</h2>
         <h3 class="text-lg font-semibold py-6">
