@@ -1,6 +1,9 @@
 <template>
   <div>
-    <div class="container mx-auto h-96" id="portofolio">
+    <div
+      class="container mx-auto h-96 md:px-0 px-8 md:py-[230px] py-8"
+      id="portofolio"
+    >
       <div class="text-center py-4">
         <h2 class="text-5xl font-bold text-primary">Portofolio</h2>
         <h3 class="text-lg font-semibold py-6 text-gray-600 dark:text-gray-400">
@@ -39,7 +42,7 @@
         <div id="php">
           <NuxtImg
             src="https://www.php.net//images/logos/new-php-logo.png"
-            class="w-24= z-50 hover:scale-150 transition duration-300 ease-in-out hover:animate-pulse"
+            class="w-24 z-50 hover:scale-150 transition duration-300 ease-in-out hover:animate-pulse"
           />
         </div>
         <div id="mysql">
