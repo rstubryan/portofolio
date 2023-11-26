@@ -5,7 +5,7 @@
       id="hero"
     >
       <div class="z-50">
-        <div>
+        <div class="">
           <h3 class="font-bold text-2xl py-4">Hello!</h3>
           <h2 class="md:text-6xl text-3xl font-semibold md:w-[700px]">
             I'm
@@ -15,10 +15,11 @@
               <span class="text-black dark:text-white">Developer</span>
             </h3>
             <p
-              class="text-base text-gray-600 dark:text-gray-400 w-[300px] md:w-[600px] py-2 leading-8"
+              class="text-base text-gray-600 dark:text-gray-400 w-full md:w-[600px] py-2 leading-8 text-justify"
             >
-              I'm a junior developer in the process of growth, eager to learn
-              more, especially in developing websites with
+              I'm a <span class="text-black">junior web developer</span> in the
+              process of growth, eager to learn more, especially in developing
+              websites with
               <span class="text-primary"
                 >Nuxt 3
                 <span class="dark:text-white text-black">&</span> Tailwind
