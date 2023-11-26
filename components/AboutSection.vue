@@ -78,6 +78,6 @@
         </div>
       </div>
     </div>
-    <hr class="border-gray-300 dark:border-gray-800" />
+    <hr class="border-gray-100 dark:border-gray-900" />
   </div>
 </template>
