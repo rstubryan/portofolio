@@ -2,6 +2,7 @@
   <div>
     <div
       class="container mx-auto md:h-96 md:px-0 px-8 md:py-0 py-8 md:flex items-center"
+      id="about"
     >
       <div class="w-full md:w-[700px] mx-auto">
         <div class="text-center md:text-start">
