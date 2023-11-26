@@ -46,5 +46,38 @@
         </div>
       </div>
     </div>
+    <div class="container mx-auto md:h-72 md:px-0 px-8 md:py-0 py-8 md:flex">
+      <div class="md:w-1/2 w-full flex justify-center">
+        <div>
+          <h2
+            class="text-center md:text-4xl text-2xl font-bold text-primary py-8"
+          >
+            Education
+          </h2>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum culpa
+            eaque in exercitationem sed velit maxime quia enim iure magni! Est
+            dignissimos iste assumenda, accusantium dolores impedit numquam
+            illum aliquid.
+          </p>
+        </div>
+      </div>
+      <div class="md:w-1/2 w-full flex justify-center">
+        <div>
+          <h2
+            class="text-center md:text-4xl text-2xl font-bold text-primary py-8"
+          >
+            Skills
+          </h2>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum culpa
+            eaque in exercitationem sed velit maxime quia enim iure magni! Est
+            dignissimos iste assumenda, accusantium dolores impedit numquam
+            illum aliquid.
+          </p>
+        </div>
+      </div>
+    </div>
+    <hr class="border-gray-300 dark:border-gray-800" />
   </div>
 </template>
