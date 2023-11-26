@@ -17,9 +17,12 @@
             <p
               class="text-base text-gray-600 dark:text-gray-400 w-full md:w-[600px] py-2 leading-8 text-justify"
             >
-              I'm a <span class="text-black">junior web developer</span> in the
-              process of growth, eager to learn more, especially in developing
-              websites with
+              I'm a
+              <span class="text-black dark:text-white"
+                >junior web developer</span
+              >
+              in the process of growth, eager to learn more, especially in
+              developing websites with
               <span class="text-primary"
                 >Nuxt 3
                 <span class="dark:text-white text-black">&</span> Tailwind

@@ -15,26 +15,31 @@
           <p
             class="md:text-lg text-base font-semibold py-4 text-gray-600 dark:text-gray-400"
           >
-            I'm a <span class="text-black">21 years old</span> student from
-            <span class="text-black">Sukabumi</span> with a deep passion for
-            <span class="text-primary">web development</span>. Currently, I'm
-            majoring in
+            I'm a
+            <span class="text-black dark:text-white">21 years old</span> student
+            from <span class="text-black dark:text-white">Sukabumi</span> with a
+            deep passion for <span class="text-primary">web development</span>.
+            Currently, I'm majoring in
             <span class="text-primary">Informatics Engineering</span> at
-            <span class="text-black">Nusa Putra University</span>, committed to
-            honing my skills in this dynamic field of technology.
+            <span class="text-black dark:text-white">Nusa Putra University</span
+            >, committed to honing my skills in this dynamic field of
+            technology.
           </p>
           <p
             class="md:text-lg text-base font-semibold py-4 text-gray-600 dark:text-gray-400"
           >
             I'm passionate about
             <span class="text-primary">slicing designs</span> from
-            <span class="text-black">Figma</span> into functional web projects
-            using <span class="text-primary">Tailwind CSS</span> and
-            <span class="text-black">JavaScript's Framework</span>. My goal is
-            to become a skilled
+            <span class="text-black dark:text-white">Figma</span> into
+            functional web projects using
+            <span class="text-primary">Tailwind CSS</span> and
+            <span class="text-black dark:text-white"
+              >JavaScript's Framework</span
+            >. My goal is to become a skilled
             <span class="text-primary">Front-End Developer</span>, and I'm
             currently building a portfolio to showcase my work and document my
-            journey in <span class="text-black">web development</span>.
+            journey in
+            <span class="text-black dark:text-white">web development</span>.
           </p>
         </div>
       </div>
