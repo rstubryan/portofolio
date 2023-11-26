@@ -10,6 +10,7 @@
           </h2>
         </div>
       </div>
+      <div class="border-l h-40 mr-10 border-primary md:block hidden"></div>
       <div class="flex">
         <div class="text-justify md:w-[900px]">
           <p
