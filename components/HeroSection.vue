@@ -19,7 +19,11 @@
             >
               I'm a junior developer in the process of growth, eager to learn
               more, especially in developing websites with
-              <span class="text-primary">Nuxt 3 & Tailwind CSS</span>.
+              <span class="text-primary"
+                >Nuxt 3
+                <span class="dark:text-white text-black">&</span> Tailwind
+                CSS</span
+              >.
             </p>
           </h2>
         </div>

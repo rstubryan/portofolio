@@ -6,7 +6,7 @@
       >
         <div class="md:flex">
           <div>
-            <h2 class="text-2xl font-bold text-primary-900">Get in touch</h2>
+            <h2 class="text-2xl font-bold text-primary">Get in touch</h2>
             <div class="flex">
               <NuxtLink
                 to="mailto:restubumirr@gmail.com"
@@ -17,7 +17,7 @@
             </div>
           </div>
           <div class="">
-            <h2 class="text-2xl font-semibold text-primary-900">Connect</h2>
+            <h2 class="text-2xl font-semibold text-primary">Connect</h2>
             <ul class="grid leading-8 py-4 text-base">
               <NuxtLink
                 to="https://www.linkedin.com/in/rstubryan/"
@@ -48,7 +48,7 @@
         </div>
         <div class="md:flex gap-10">
           <div>
-            <h2 class="text-2xl font-semibold text-primary-900">Blog (Soon)</h2>
+            <h2 class="text-2xl font-semibold text-primary">Blog (Soon)</h2>
             <ul class="grid leading-8 py-4 text-base">
               <NuxtLink to="" class="hover:animate-pulse">Nuxt 3</NuxtLink>
               <NuxtLink to="" class="hover:animate-pulse">Vue 3</NuxtLink>
@@ -56,11 +56,11 @@
           </div>
         </div>
       </div>
-      <hr class="container mx-auto border-primary-900" />
+      <hr class="container mx-auto border-primary" />
       <div class="">
         <p class="text-center py-8">
-          &copy; 2023 <span class="text-primary-900 font-bold">rstubryan</span>.
-          All rights reserved.
+          &copy; 2023 <span class="text-primary font-bold">rstubryan</span>. All
+          rights reserved.
         </p>
       </div>
     </div>
