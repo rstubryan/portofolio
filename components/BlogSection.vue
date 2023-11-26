@@ -36,7 +36,7 @@
                 />
               </NuxtLink>
             </div>
-            <h3 class="py-4">
+            <h3 class="py-4 text-gray-600 dark:text-gray-400">
               Powered by : Nuxt <span class="text-primary">Content</span>
             </h3>
           </div>
