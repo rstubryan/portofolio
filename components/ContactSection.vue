@@ -1,6 +1,9 @@
 <template>
   <div>
-    <div class="container mx-auto h-96 md:px-0 px-8 md:py-0 py-8" id="contact">
+    <div
+      class="container mx-auto md:h-96 md:px-0 px-8 md:py-0 py-8"
+      id="contact"
+    >
       <div class="text-center py-4">
         <h2 class="md:text-5xl text-3xl font-bold text-primary">Contact</h2>
         <h3
