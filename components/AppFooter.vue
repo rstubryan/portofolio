@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="bg-primary">
+    <div class="">
       <div
         class="container mx-auto md:h-72 h-[500px] md:py-14 py-8 p-8 md:p-0 md:flex md:justify-between"
       >
