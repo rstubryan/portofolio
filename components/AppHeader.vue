@@ -19,7 +19,7 @@
           class="md:text-3xl text-2xl text-primary font-semibold"
           target="_blank"
           id="web-name"
-          >rstubryan</NuxtLink
+          >rstubryan<span class="text-black dark:text-white">.</span></NuxtLink
         >
       </div>
       <div class="flex">
