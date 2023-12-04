@@ -55,7 +55,7 @@
             >
               Education
             </h2>
-            <p class="leading-loose">
+            <p class="leading-loose text-gray-600 dark:text-gray-400">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum
               culpa eaque in exercitationem sed velit maxime quia enim iure
               magni! Est dignissimos iste assumenda, accusantium dolores impedit
@@ -107,7 +107,9 @@
                   </li>
                 </ul>
                 <div class="py-4">
-                  <p class="leading-loose text-base text-justify">
+                  <p
+                    class="leading-loose text-base text-justify text-gray-600 dark:text-gray-400"
+                  >
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Maiores debitis, error dolorum rem numquam et. Corrupti
                     culpa expedita nihil at velit, deserunt perferendis odio
