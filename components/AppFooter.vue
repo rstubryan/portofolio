@@ -8,12 +8,24 @@
           <div>
             <h2 class="text-2xl font-bold text-primary">Get in touch</h2>
             <div class="flex">
-              <NuxtLink
-                to="mailto:restubumirr@gmail.com"
-                class="text-base py-4 leading-8 w-72 hover:animate-pulse"
-                target="_blank"
-                >restubumirr@gmail.com
-              </NuxtLink>
+              <div
+                class="text-base py-4 leading-8 w-72 hover:animate-pulse flex"
+              >
+                <div class="py-1 mr-2">
+                  <UIcon
+                    name="i-heroicons-envelope"
+                    class="hover:animate-pulse text-2xl text-primary flex"
+                  ></UIcon>
+                </div>
+                <div>
+                  <NuxtLink
+                    to="mailto:restubumirr@gmail.com"
+                    class="flex"
+                    target="_blank"
+                    >restubumirr@gmail.com
+                  </NuxtLink>
+                </div>
+              </div>
             </div>
           </div>
           <div class="">
