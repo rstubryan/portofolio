@@ -46,13 +46,13 @@
         <div class="flex items-center justify-center px-16">
           <div class="relative w-full max-w-lg">
             <div
-              class="absolute md:-bottom-52 -bottom-80 md:-right-48 right-32 w-72 h-72 bg-primary-500 rounded-full mix-blend-multiply filter blur-xl dark:opacity-30 opacity-70 animate-blob"
+              class="absolute md:-bottom-52 -bottom-40 md:-right-48 right-32 md:w-72 w-32 md:h-72 h-32 bg-primary-500 rounded-full mix-blend-multiply filter blur-xl dark:opacity-100 opacity-70 animate-blob"
             ></div>
             <div
-              class="absolute md:top-0 -bottom-96 md:left-72 w-72 h-72 bg-primary-300 rounded-full mix-blend-multiply filter blur-xl dark:opacity-30 opacity-70 animate-blob animation-delay-2000"
+              class="absolute md:top-0 -bottom-96 md:left-72 md:w-72 w-32 md:h-72 h-32 bg-primary-300 rounded-full mix-blend-multiply filter blur-xl dark:opacity-100 opacity-70 animate-blob animation-delay-2000"
             ></div>
             <div
-              class="absolute md:-top-72 -top-10 md:left-72 -right-20 w-72 h-72 bg-primary-400 rounded-full mix-blend-multiply filter blur-xl dark:opacity-30 opacity-70 animate-blob animation-delay-4000"
+              class="absolute md:-top-72 -top-10 md:left-72 -right-20 md:w-72 w-32 md:h-72 h-32 bg-primary-400 rounded-full mix-blend-multiply filter blur-xl dark:opacity-100 opacity-70 animate-blob animation-delay-4000"
             ></div>
           </div>
         </div>
