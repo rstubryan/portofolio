@@ -15,7 +15,7 @@
       <div class="flex">
         <div class="text-justify md:w-[900px]">
           <p
-            class="md:text-lg text-base font-semibold py-4 text-gray-600 dark:text-gray-400"
+            class="md:text-lg text-base font-semibold py-4 text-gray-600 dark:text-gray-400 leading-loose"
           >
             I'm a
             <span class="text-black dark:text-white">21 years old</span> student
@@ -28,7 +28,7 @@
             technology.
           </p>
           <p
-            class="md:text-lg text-base font-semibold py-4 text-gray-600 dark:text-gray-400"
+            class="md:text-lg text-base font-semibold py-4 text-gray-600 dark:text-gray-400 leading-loose"
           >
             I'm passionate about
             <span class="text-primary">slicing designs</span> from
@@ -46,8 +46,8 @@
         </div>
       </div>
     </div>
-    <div class="h-96">
-      <div class="container mx-auto md:h-72 md:px-0 px-8 md:py-0 py-8 md:flex">
+    <div class="md:h-96">
+      <div class="container mx-auto md:h-72 md:px-0 px-8 py-0 md:flex">
         <div class="md:w-1/2 w-full flex justify-center">
           <div>
             <h2
@@ -55,7 +55,9 @@
             >
               Education
             </h2>
-            <p class="leading-loose text-gray-600 dark:text-gray-400">
+            <p
+              class="leading-loose text-justify text-gray-600 dark:text-gray-400"
+            >
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum
               culpa eaque in exercitationem sed velit maxime quia enim iure
               magni! Est dignissimos iste assumenda, accusantium dolores impedit
@@ -70,7 +72,7 @@
             >
               Skills
             </h2>
-            <div class="ml-12">
+            <div class="md:ml-12">
               <div class="">
                 <ul class="grid grid-cols-3 gap-2">
                   <li class="flex items-center gap-x-1">

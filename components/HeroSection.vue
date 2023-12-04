@@ -6,16 +6,16 @@
     >
       <div class="z-50">
         <div class="">
-          <h3 class="font-bold text-2xl py-4">Hello!</h3>
-          <h2 class="md:text-6xl text-3xl font-semibold md:w-[700px]">
+          <h3 class="font-bold md:text-2xl text-xl py-4">Hello!</h3>
+          <h2 class="md:text-7xl text-4xl font-semibold md:w-[700px]">
             I'm
             <span class="text-primary font-bold">Restu</span> Bumi Ryan Ramadhan
-            <h3 class="text-primary font-bold text-2xl py-4">
+            <h3 class="text-primary font-bold md:text-3xl text-xl py-4">
               Front<span class="text-black dark:text-white">-</span>End
               <span class="text-black dark:text-white">Developer</span>
             </h3>
             <p
-              class="text-base text-gray-600 dark:text-gray-400 w-full md:w-[600px] py-2 leading-8 text-justify"
+              class="md:text-lg text-base text-gray-600 dark:text-gray-400 w-full md:w-[600px] py-2 leading-loose text-justify"
             >
               I'm a
               <span class="text-black dark:text-white"
