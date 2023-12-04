@@ -46,35 +46,77 @@
         </div>
       </div>
     </div>
-    <div class="container mx-auto md:h-72 md:px-0 px-8 md:py-0 py-8 md:flex">
-      <div class="md:w-1/2 w-full flex justify-center">
-        <div>
-          <h2
-            class="text-center md:text-4xl text-2xl font-bold text-primary py-8"
-          >
-            Education
-          </h2>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum culpa
-            eaque in exercitationem sed velit maxime quia enim iure magni! Est
-            dignissimos iste assumenda, accusantium dolores impedit numquam
-            illum aliquid.
-          </p>
+    <div class="h-96">
+      <div class="container mx-auto md:h-72 md:px-0 px-8 md:py-0 py-8 md:flex">
+        <div class="md:w-1/2 w-full flex justify-center">
+          <div>
+            <h2
+              class="text-center md:text-4xl text-2xl font-bold text-primary py-8"
+            >
+              Education
+            </h2>
+            <p class="leading-loose">
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum
+              culpa eaque in exercitationem sed velit maxime quia enim iure
+              magni! Est dignissimos iste assumenda, accusantium dolores impedit
+              numquam illum aliquid.
+            </p>
+          </div>
         </div>
-      </div>
-      <div class="md:w-1/2 w-full flex justify-center">
-        <div>
-          <h2
-            class="text-center md:text-4xl text-2xl font-bold text-primary py-8"
-          >
-            Skills
-          </h2>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum culpa
-            eaque in exercitationem sed velit maxime quia enim iure magni! Est
-            dignissimos iste assumenda, accusantium dolores impedit numquam
-            illum aliquid.
-          </p>
+        <div class="md:w-1/2 w-full flex justify-center md:text-lg text-base">
+          <div class="">
+            <h2
+              class="text-center md:text-4xl text-2xl font-bold text-primary py-8"
+            >
+              Skills
+            </h2>
+            <div class="ml-12">
+              <div class="">
+                <ul class="grid grid-cols-3 gap-2">
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">Tailwind</span>
+                  </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">JavaScript</span>
+                  </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">Vue 3</span>
+                  </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">Typescript</span>
+                  </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">Nuxt 3</span>
+                  </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">NodeJS</span>
+                  </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">ExpressJS</span>
+                  </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">Laravel</span>
+                  </li>
+                </ul>
+                <div class="py-4">
+                  <p class="leading-loose text-base text-justify">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                    Maiores debitis, error dolorum rem numquam et. Corrupti
+                    culpa expedita nihil at velit, deserunt perferendis odio
+                    repellendus, voluptates qui nobis porro nam?
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
