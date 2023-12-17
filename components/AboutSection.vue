@@ -107,6 +107,10 @@
                     <span class="text-xl md:text-2xl text-primary">▹</span>
                     <span class="font-semibold">Laravel</span>
                   </li>
+                  <li class="flex items-center gap-x-1">
+                    <span class="text-xl md:text-2xl text-primary">▹</span>
+                    <span class="font-semibold">MongoDB</span>
+                  </li>
                 </ul>
                 <div class="py-4">
                   <p
