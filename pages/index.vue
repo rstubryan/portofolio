@@ -1,3 +1,9 @@
+<script setup>
+useHead({
+  title: "rstubryan's portf",
+});
+</script>
+
 <template>
   <div>
     <AppHeader />
