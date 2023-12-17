@@ -5,7 +5,7 @@
       id="portofolio"
     >
       <div class="text-center py-4">
-        <h2 class="md:text-5xl text-3xl font-bold text-primary">Portofolio</h2>
+        <h2 class="md:text-5xl text-3xl font-bold text-primary">Portfolio</h2>
         <h3
           class="md:text-lg text-base font-semibold py-6 text-gray-600 dark:text-gray-400"
         >
